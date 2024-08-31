@@ -1,0 +1,36 @@
+.dashboard {
+  flex-grow: 1;
+  padding: auto; 
+}
+
+.charts {
+  display: flex;
+  gap: 1rem;
+
+}
+
+.chart {
+  flex: 1;
+  height: 100%;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px; /* Slightly larger border radius */
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1); /* Slightly larger shadow for depth */
+  transition: box-shadow 0.3s;
+}
+
+.chart h3 {
+  font-size: 20px; /* Increased font size */
+  color: #333;
+  font-weight: bold;
+}
+
+.chart:hover {
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15); /* Increased shadow on hover */
+}
+
+@media (max-width: 768px) {
+  .charts {
+    flex-direction: column;
+  }
+}
