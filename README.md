@@ -1,17 +1,16 @@
 # Screenshots :
-
-![Screenshot (819)](https://github.com/user-attachments/assets/e4a472df-9642-4492-8e5c-a3d8e803ad8c)
-
-![Screenshot (820)](https://github.com/user-attachments/assets/5c931e08-352e-4675-9a95-cb08558ba733)
-
-![Screenshot (822)](https://github.com/user-attachments/assets/c1da4f17-d6fd-4c50-8f20-7b40c117dfc3)
-
-![Screenshot (823)](https://github.com/user-attachments/assets/9796e0e6-7e8a-4d89-954a-2762a965d87b)  
+ 
+[http://localhost:3000]
 
 ![Screenshot (826)](https://github.com/user-attachments/assets/9d5a631c-38f4-4d7e-a927-5303be3cb431)
 
-
+# Deployment screenshot: 
 ![Screenshot (825)](https://github.com/user-attachments/assets/015d05cb-a715-482e-a4ca-5bcff5a808e8)
+
+
+# To start the server and go through the localhost link
+- npm install
+- npm start
 
 
 # Getting Started with Create React App
